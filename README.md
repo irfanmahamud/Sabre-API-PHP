@@ -1,5 +1,4 @@
 # Sabre-API-PHP
-Sabre air API for php
 PHP library to connect Sabre Air SOAP API
 
 Module included below service:
